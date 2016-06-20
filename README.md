@@ -1,11 +1,13 @@
-Project: Determinization of on-line tessellation automata
+##Project info
 
-Language: Java SDK8
+**Project:** Determinization of on-line tessellation automata
 
-Author: Lukas Dibdak
+**Language:** Java SDK8
+
+**Author:** Lukas Dibdak
 
 Faculty of Information Technology, Brno University of Technology
 
-Content:
-- /licences - includes all licences associated to the project
-- /determinization - package containing all source codes
+##Content:
+- **/licences** - includes all licences associated to the project
+- **/determinization** - package containing all source codes
