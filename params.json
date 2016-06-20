@@ -1,0 +1,6 @@
+{
+  "name": "Deteminization",
+  "tagline": "The source codes of an application to determinize on-line tessellation automata",
+  "body": "## Project info\r\n**Project:** Determinization of on-line tessellation automata\r\n\r\n**Language:** Java SDK8\r\n\r\n**Author:** Lukas Dibdak\r\n\r\nFaculty of Information Technology, Brno University of Technology\r\n\r\n## Content:\r\n- **/licences** - includes all licences associated to the project\r\n- **/determinization** - package containing all source codes\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
